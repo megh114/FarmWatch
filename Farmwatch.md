@@ -1099,37 +1099,6 @@ across the value chain.</p>
 </tbody>
 </table>
 
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
 
 # Business Architecture 
 
