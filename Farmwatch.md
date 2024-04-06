@@ -70,7 +70,7 @@
 
 [Security ](#security)
 
-> [Extensibility ](#extensibility)
+[Extensibility ](#extensibility)
 
 [ML Models ](#ml-models)
 
