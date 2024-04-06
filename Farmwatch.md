@@ -1,57 +1,4 @@
-<table>
-<colgroup>
-<col style="width: 17%" />
-<col style="width: 17%" />
-<col style="width: 13%" />
-<col style="width: 17%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><strong>Team</strong></td>
-<td><strong>Team Member</strong></td>
-<td><strong>Organization</strong></td>
-<td><strong>Department</strong></td>
-<td><strong>Linkedin Profile</strong></td>
-</tr>
-<tr class="even">
-<td><img src="./attachments/ArchKatas/media/image1.png"
-style="width:0.74479in;height:0.74479in" /></td>
-<td>Priya Kar</td>
-<td>HDFC Bank</td>
-<td>Enterprise Architecture</td>
-<td><a
-href="https://www.linkedin.com/in/priya-kar-86705b13"><u>https://www.linkedin.com/in/priya-kar-86705b13</u></a></td>
-</tr>
-<tr class="odd">
-<td><img src="./attachments/ArchKatas/media/image2.png"
-style="width:0.80818in;height:0.77451in" /></td>
-<td>Ajay Khatri</td>
-<td>HDFC Bank</td>
-<td>Enterprise Architecture</td>
-<td><a
-href="https://www.linkedin.com/in/khatriajay"><u>https://www.linkedin.com/in/khatriajay</u></a></td>
-</tr>
-<tr class="even">
-<td><img src="./attachments/ArchKatas/media/image3.png"
-style="width:0.71354in;height:0.74598in" /></td>
-<td>Megha Shah</td>
-<td>HDFC Bank</td>
-<td>Enterprise Architecture</td>
-<td><a
-href="https://www.linkedin.com/in/megha-shah-30a61a15"><u>https://www.linkedin.com/in/megha-shah-30a61a15</u></a></td>
-</tr>
-<tr class="odd">
-<td><img src="./attachments/ArchKatas/media/image4.png"
-style="width:0.75452in;height:0.74326in" /></td>
-<td>Sunil Govekar</td>
-<td>HDFC Bank</td>
-<td>Enterprise Architecture</td>
-<td><a
-href="https://www.linkedin.com/in/saurabh-govekar-681a6121"><u>https://www.linkedin.com/in/saurabh-govekar-681a6121</u></a></td>
-</tr>
-</tbody>
-</table>
+
 
 # 
 
@@ -1774,3 +1721,59 @@ ML models that can be applied:
 
 <img src="./attachments/ArchKatas/media/image21.png"
 style="width:6.5in;height:3.27778in" />
+
+# Team
+<table>
+<colgroup>
+<col style="width: 17%" />
+<col style="width: 17%" />
+<col style="width: 13%" />
+<col style="width: 17%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><strong>Team</strong></td>
+<td><strong>Team Member</strong></td>
+<td><strong>Organization</strong></td>
+<td><strong>Department</strong></td>
+<td><strong>Linkedin Profile</strong></td>
+</tr>
+<tr class="even">
+<td><img src="./attachments/ArchKatas/media/image1.png"
+style="width:0.74479in;height:0.74479in" /></td>
+<td>Priya Kar</td>
+<td>HDFC Bank</td>
+<td>Enterprise Architecture</td>
+<td><a
+href="https://www.linkedin.com/in/priya-kar-86705b13"><u>https://www.linkedin.com/in/priya-kar-86705b13</u></a></td>
+</tr>
+<tr class="odd">
+<td><img src="./attachments/ArchKatas/media/image2.png"
+style="width:0.80818in;height:0.77451in" /></td>
+<td>Ajay Khatri</td>
+<td>HDFC Bank</td>
+<td>Enterprise Architecture</td>
+<td><a
+href="https://www.linkedin.com/in/khatriajay"><u>https://www.linkedin.com/in/khatriajay</u></a></td>
+</tr>
+<tr class="even">
+<td><img src="./attachments/ArchKatas/media/image3.png"
+style="width:0.71354in;height:0.74598in" /></td>
+<td>Megha Shah</td>
+<td>HDFC Bank</td>
+<td>Enterprise Architecture</td>
+<td><a
+href="https://www.linkedin.com/in/megha-shah-30a61a15"><u>https://www.linkedin.com/in/megha-shah-30a61a15</u></a></td>
+</tr>
+<tr class="odd">
+<td><img src="./attachments/ArchKatas/media/image4.png"
+style="width:0.75452in;height:0.74326in" /></td>
+<td>Sunil Govekar</td>
+<td>HDFC Bank</td>
+<td>Enterprise Architecture</td>
+<td><a
+href="https://www.linkedin.com/in/saurabh-govekar-681a6121"><u>https://www.linkedin.com/in/saurabh-govekar-681a6121</u></a></td>
+</tr>
+</tbody>
+</table>
