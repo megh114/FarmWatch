@@ -4,78 +4,78 @@
 
 # Table of Contents
 
-[**Table of Contents 2**](#table-of-contents)
+[**Table of Contents **](#table-of-contents)
 
-[**Executive Summary: 3**](#executive-summary)
+[**Executive Summary: **](#executive-summary)
 
-[**Introduction: 4**](#introduction)
+[**Introduction: **](#introduction)
 
-[**Business Requirements 4**](#business-requirements)
+[**Business Requirements **](#business-requirements)
 
 [**Non-Functional Requirements (NFRs)
-6**](#non-functional-requirements-nfrs)
+**](#non-functional-requirements-nfrs)
 
-[**Assumptions 8**](#assumptions)
+[**Assumptions **](#assumptions)
 
-[**Architecture Decision Records 9**](#architecture-decision-records)
+[**Architecture Decision Records **](#architecture-decision-records)
 
-> [Solution 9](#solution)
+> [Solution ](#solution)
 >
-> [Structure 10](#structure)
+> [Structure ](#structure)
 >
-> [Dependencies 13](#dependencies)
+> [Dependencies ](#dependencies)
 >
-> [Interfaces 15](#interfaces)
+> [Interfaces ](#interfaces)
 >
 > [Construction techniques (libraries, frameworks, tools, and processes)
-> 18](#construction-techniques-libraries-frameworks-tools-and-processes)
+> ](#construction-techniques-libraries-frameworks-tools-and-processes)
 >
-> [Architecture Decisions 19](#architecture-decisions)
+> [Architecture Decisions ](#architecture-decisions)
 
-[**Deliverables 21**](#deliverables)
+[**Deliverables **](#deliverables)
 
-[**Challenges 21**](#challenges)
+[**Challenges **](#challenges)
 
-[**Business Architecture 23**](#section-5)
+[**Business Architecture **](#section-5)
 
 > [Use Case Diagram 24](#use-case-diagram)
 >
 > [Journey View 26](#journey-view)
 
-[**Data Architecture 27**](#data-architecture)
+[**Data Architecture **](#data-architecture)
 
 [**Integration and Information Architecture
-27**](#integration-and-information-architecture)
+**](#integration-and-information-architecture)
 
-[**Application Architecture 28**](#application-architecture)
+[**Application Architecture **](#application-architecture)
 
 > [High Level Component Architecture
-> 28](#high-level-component-architecture)
+> ](#high-level-component-architecture)
 >
-> [Component Flow Overview 30](#component-flow-overview)
+> [Component Flow Overview ](#component-flow-overview)
 >
-> [ML Architecture Overview 30](#ml-architecture-overview)
+> [ML Architecture Overview ](#ml-architecture-overview)
 >
-> [Application Architecture 31](#application-architecture-1)
+> [Application Architecture ](#application-architecture-1)
 >
-> [Microservice Components 32](#microservice-components)
+> [Microservice Components ](#microservice-components)
 >
-> [Component Flow 32](#component-flow)
+> [Component Flow ](#component-flow)
 >
-> [Technology Stack 33](#technology-stack)
+> [Technology Stack ](#technology-stack)
 
-[**Deployment Architecture 34**](#deployment-architecture)
+[**Deployment Architecture **](#deployment-architecture)
 
 [**Non Functional Requirements Servicing
-36**](#non-functional-requirements-servicing)
+**](#non-functional-requirements-servicing)
 
-[**Security 36**](#security)
+[**Security **](#security)
 
-> [Extensibility 38](#extensibility)
+> [Extensibility ](#extensibility)
 
-[**ML Models 39**](#ml-models)
+[**ML Models **](#ml-models)
 
-[**References: 40**](#references)
+[**References: **](#references)
 
 # Executive Summary:
 
@@ -1717,10 +1717,6 @@ ML models that can be applied:
         schedules) based on environmental feedback and rewards,
         optimizing farm management strategies over time.
 
-# References:
-
-<img src="./attachments/ArchKatas/media/image21.png"
-style="width:6.5in;height:3.27778in" />
 
 # Team
 <table>
