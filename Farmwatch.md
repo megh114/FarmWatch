@@ -143,8 +143,7 @@ reliability, scalability, security, and interoperability, making it
 suitable for various farming applications including fish farming, cattle
 farming, zoo monitoring, and bird (enclosure) monitoring.
 
-# <img src="./attachments/ArchKatas/media/image5.png"
-style="width:4.10417in;height:4.10417in" />
+<img src="./attachments/ArchKatas/media/image5.png style="width:4.10417in;height:4.10417in" />
 
 # 
 
