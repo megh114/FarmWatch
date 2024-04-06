@@ -4,9 +4,8 @@
 
 # Table of Contents
 
-[**Table of Contents **](#table-of-contents)
 
-[**Executive Summary: **](#executive-summary)
+[Executive Summary: ](#executive-summary)
 
 [**Introduction: **](#introduction)
 
