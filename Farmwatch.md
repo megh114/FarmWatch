@@ -5,18 +5,18 @@
 # Table of Contents
 
 
-[Executive Summary: ](#executive-summary)
+[Executive Summary ](#executive-summary)
 
-[**Introduction: **](#introduction)
+[Introduction ](#introduction)
 
-[**Business Requirements **](#business-requirements)
+[Business Requirements ](#business-requirements)
 
-[**Non-Functional Requirements (NFRs)
-**](#non-functional-requirements-nfrs)
+[Non-Functional Requirements (NFRs)
+](#non-functional-requirements-nfrs)
 
-[**Assumptions **](#assumptions)
+[Assumptions ](#assumptions)
 
-[**Architecture Decision Records **](#architecture-decision-records)
+[Architecture Decision Records ](#architecture-decision-records)
 
 > [Solution ](#solution)
 >
@@ -31,22 +31,22 @@
 >
 > [Architecture Decisions ](#architecture-decisions)
 
-[**Deliverables **](#deliverables)
+[Deliverables ](#deliverables)
 
-[**Challenges **](#challenges)
+[Challenges ](#challenges)
 
-[**Business Architecture **](#section-5)
+[Business Architecture ](#section-5)
 
-> [Use Case Diagram 24](#use-case-diagram)
+> [Use Case Diagram ](#use-case-diagram)
 >
-> [Journey View 26](#journey-view)
+> [Journey View ](#journey-view)
 
-[**Data Architecture **](#data-architecture)
+[Data Architecture ](#data-architecture)
 
-[**Integration and Information Architecture
-**](#integration-and-information-architecture)
+[Integration and Information Architecture
+](#integration-and-information-architecture)
 
-[**Application Architecture **](#application-architecture)
+[Application Architecture ](#application-architecture)
 
 > [High Level Component Architecture
 > ](#high-level-component-architecture)
@@ -63,18 +63,18 @@
 >
 > [Technology Stack ](#technology-stack)
 
-[**Deployment Architecture **](#deployment-architecture)
+[Deployment Architecture ](#deployment-architecture)
 
-[**Non Functional Requirements Servicing
-**](#non-functional-requirements-servicing)
+[Non Functional Requirements Servicing
+](#non-functional-requirements-servicing)
 
-[**Security **](#security)
+[Security ](#security)
 
 > [Extensibility ](#extensibility)
 
-[**ML Models **](#ml-models)
+[ML Models ](#ml-models)
 
-[**References: **](#references)
+[Teams: ](#team)
 
 # Executive Summary:
 
