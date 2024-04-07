@@ -1764,7 +1764,7 @@ href="https://www.linkedin.com/in/megha-shah-30a61a15"><u>https://www.linkedin.c
 <tr class="odd">
 <td><img src="./attachments/ArchKatas/media/image4.png"
 style="width:0.75452in;height:0.74326in" /></td>
-<td>Sunil Govekar</td>
+<td>Saurabh Govekar</td>
 <td>HDFC Bank</td>
 <td>Enterprise Architecture</td>
 <td><a
