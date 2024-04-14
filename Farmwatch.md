@@ -1,7 +1,8 @@
 
 
 # 
-[Final Video Presentation ] <video src="ArchiTechieVideo.mp4" width="320" height="240" controls></video>
+[Final Video Presentation ] 
+<iframe width="560" height="315" src="ArchiTechieVideo.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 # Table of Contents
 
 
