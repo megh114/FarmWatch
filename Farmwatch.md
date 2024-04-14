@@ -1,7 +1,7 @@
 
 
 # 
-[Final Video Presentation ] <a>sdfds</a><video src="./ArchiTechieVideo.mp4" width="320" height="240" controls></video>
+[Final Video Presentation ] <video src="ArchiTechieVideo.mp4" width="320" height="240" controls></video>
 # Table of Contents
 
 
