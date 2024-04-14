@@ -1,7 +1,7 @@
 
 
 # 
-<a href="ArchiTechieVideo.mp4">[Final Video Presentation ] </a>
+<a href="ArchiTechieVideo.mp4">Final Video Presentation </a>
 
 # Table of Contents
 
