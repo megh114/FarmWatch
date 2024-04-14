@@ -1,9 +1,7 @@
 
 
 # 
-[Final Video Presentation ] 
-#
-<iframe width="560" height="315" src="ArchiTechieVideo.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="ArchiTechieVideo.mp4">[Final Video Presentation ] </a>
 
 # Table of Contents
 
